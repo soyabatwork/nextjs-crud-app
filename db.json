@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "WHERE WE’VE BEEN",
+      "content": "Hexatech Solutions is an IT company which was established in January 2020. In March, the whole world was affected by Covid and yet amidst all that we were still able to secure ourselves in the industry and provide optimal quality services. At Hexatech Solutions our culture is to provide all round IT solutions with honesty, integrity and in-timely."
+    },
+    {
+      "id": 2,
+      "title": "This is second post",
+      "content": "fsdafsfsadfsdf"
+    }
+  ]
+}
